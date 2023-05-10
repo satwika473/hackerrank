@@ -1,0 +1,2 @@
+ __name_ == '__main__':
+    print("Hello, World!")
